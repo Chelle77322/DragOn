@@ -4,6 +4,10 @@
   "description": "Chuck Norris Random Generator",
   "main": "index.js",
   "type": "module",
+   "engines": {
+        "node": "18.3.0",
+        "npm": "9.8.1"
+      },
   "scripts": {
     "serve": "vue-cli-service serve -s dist ",
     "build": "vue-cli-service build",
