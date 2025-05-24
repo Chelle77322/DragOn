@@ -1,5 +1,6 @@
 <!-- eslint-disable vue/no-unused-components -->
 <!-- eslint-disable vue/require-v-for-key -->
+/* eslint-disable */
 <template>
 
   <div class="chuck-talk">
